@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "imageUrl": "./src/assets/product.webp",
       "name": "Product name 1",
       "count": 10,
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "imageUrl": "./src/assets/product.webp",
       "name": "Product name 2",
       "count": 10,
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "imageUrl": "./src/assets/product.webp",
       "name": "Product name 3",
       "count": 9,
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "imageUrl": "./src/assets/product.webp",
       "name": "Product name 4",
       "count": 9,
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": "5",
       "imageUrl": "./src/assets/product.webp",
       "name": "Product name 5",
       "count": 2,
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": "6",
       "imageUrl": "./src/assets/product.webp",
       "name": "Product name 6",
       "count": 4,
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": "7",
       "imageUrl": "./src/assets/product.webp",
       "name": "Product name 7",
       "count": 8,
@@ -148,563 +148,6 @@
           "productId": 7,
           "description": "Nice gadget!",
           "date": "22.09.2021, 21:26"
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 8",
-      "count": 6,
-      "size": {
-        "width": 230,
-        "height": 234
-      },
-      "weight": "435g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 8,
-          "description": "Love it!",
-          "date": "24.01.2021, 12:02"
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 9",
-      "count": 9,
-      "size": {
-        "width": 265,
-        "height": 179
-      },
-      "weight": "116g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 9,
-          "description": "Nice gadget!",
-          "date": "04.01.2021, 14:15"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 10",
-      "count": 8,
-      "size": {
-        "width": 258,
-        "height": 254
-      },
-      "weight": "100g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 10,
-          "description": "Nice gadget!",
-          "date": "12.07.2021, 17:03"
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 11",
-      "count": 2,
-      "size": {
-        "width": 111,
-        "height": 156
-      },
-      "weight": "447g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 11,
-          "description": "Love it!",
-          "date": "05.09.2021, 19:21"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 12",
-      "count": 3,
-      "size": {
-        "width": 242,
-        "height": 142
-      },
-      "weight": "316g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 12,
-          "description": "Really cool",
-          "date": "08.04.2021, 21:37"
-        },
-        {
-          "id": 2,
-          "productId": 12,
-          "description": "Love it!",
-          "date": "15.03.2021, 03:10"
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 13",
-      "count": 2,
-      "size": {
-        "width": 155,
-        "height": 148
-      },
-      "weight": "224g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 13,
-          "description": "Nice gadget!",
-          "date": "18.12.2021, 13:59"
-        },
-        {
-          "id": 2,
-          "productId": 13,
-          "description": "Nice gadget!",
-          "date": "17.02.2021, 03:19"
-        },
-        {
-          "id": 3,
-          "productId": 13,
-          "description": "Really cool",
-          "date": "07.03.2021, 04:34"
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 14",
-      "count": 7,
-      "size": {
-        "width": 240,
-        "height": 294
-      },
-      "weight": "283g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 14,
-          "description": "Really cool",
-          "date": "06.02.2021, 01:26"
-        },
-        {
-          "id": 2,
-          "productId": 14,
-          "description": "Nice gadget!",
-          "date": "15.07.2021, 16:06"
-        },
-        {
-          "id": 3,
-          "productId": 14,
-          "description": "Love it!",
-          "date": "12.12.2021, 15:19"
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 15",
-      "count": 3,
-      "size": {
-        "width": 289,
-        "height": 212
-      },
-      "weight": "326g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 15,
-          "description": "Really cool",
-          "date": "07.04.2021, 23:38"
-        },
-        {
-          "id": 2,
-          "productId": 15,
-          "description": "Really cool",
-          "date": "14.02.2021, 06:29"
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 16",
-      "count": 7,
-      "size": {
-        "width": 285,
-        "height": 236
-      },
-      "weight": "199g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 16,
-          "description": "Nice gadget!",
-          "date": "14.06.2021, 06:17"
-        },
-        {
-          "id": 2,
-          "productId": 16,
-          "description": "Nice gadget!",
-          "date": "12.01.2021, 01:13"
-        },
-        {
-          "id": 3,
-          "productId": 16,
-          "description": "Nice gadget!",
-          "date": "17.01.2021, 19:21"
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 17",
-      "count": 9,
-      "size": {
-        "width": 291,
-        "height": 114
-      },
-      "weight": "468g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 17,
-          "description": "Really cool",
-          "date": "25.03.2021, 15:39"
-        },
-        {
-          "id": 2,
-          "productId": 17,
-          "description": "Love it!",
-          "date": "28.09.2021, 13:13"
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 18",
-      "count": 8,
-      "size": {
-        "width": 149,
-        "height": 155
-      },
-      "weight": "371g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 18,
-          "description": "Nice gadget!",
-          "date": "27.07.2021, 08:42"
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 19",
-      "count": 1,
-      "size": {
-        "width": 204,
-        "height": 194
-      },
-      "weight": "425g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 19,
-          "description": "Really cool",
-          "date": "22.12.2021, 00:34"
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 20",
-      "count": 4,
-      "size": {
-        "width": 271,
-        "height": 201
-      },
-      "weight": "404g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 20,
-          "description": "Really cool",
-          "date": "27.09.2021, 11:05"
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 21",
-      "count": 4,
-      "size": {
-        "width": 285,
-        "height": 134
-      },
-      "weight": "182g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 21,
-          "description": "Love it!",
-          "date": "19.11.2021, 06:21"
-        },
-        {
-          "id": 2,
-          "productId": 21,
-          "description": "Love it!",
-          "date": "17.03.2021, 15:39"
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 22",
-      "count": 9,
-      "size": {
-        "width": 290,
-        "height": 132
-      },
-      "weight": "108g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 22,
-          "description": "Nice gadget!",
-          "date": "08.10.2021, 10:32"
-        },
-        {
-          "id": 2,
-          "productId": 22,
-          "description": "Love it!",
-          "date": "25.06.2021, 15:37"
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 23",
-      "count": 4,
-      "size": {
-        "width": 245,
-        "height": 218
-      },
-      "weight": "208g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 23,
-          "description": "Nice gadget!",
-          "date": "21.03.2021, 01:14"
-        },
-        {
-          "id": 2,
-          "productId": 23,
-          "description": "Love it!",
-          "date": "12.05.2021, 06:20"
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 24",
-      "count": 8,
-      "size": {
-        "width": 256,
-        "height": 180
-      },
-      "weight": "492g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 24,
-          "description": "Nice gadget!",
-          "date": "15.04.2021, 02:40"
-        },
-        {
-          "id": 2,
-          "productId": 24,
-          "description": "Nice gadget!",
-          "date": "05.08.2021, 08:01"
-        },
-        {
-          "id": 3,
-          "productId": 24,
-          "description": "Really cool",
-          "date": "21.06.2021, 03:04"
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 25",
-      "count": 6,
-      "size": {
-        "width": 209,
-        "height": 222
-      },
-      "weight": "460g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 25,
-          "description": "Really cool",
-          "date": "15.08.2021, 14:01"
-        }
-      ]
-    },
-    {
-      "id": 26,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 26",
-      "count": 3,
-      "size": {
-        "width": 252,
-        "height": 149
-      },
-      "weight": "122g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 26,
-          "description": "Nice gadget!",
-          "date": "19.09.2021, 08:50"
-        },
-        {
-          "id": 2,
-          "productId": 26,
-          "description": "Really cool",
-          "date": "13.04.2021, 08:50"
-        },
-        {
-          "id": 3,
-          "productId": 26,
-          "description": "Nice gadget!",
-          "date": "28.02.2021, 04:28"
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 27",
-      "count": 7,
-      "size": {
-        "width": 107,
-        "height": 154
-      },
-      "weight": "176g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 27,
-          "description": "Nice gadget!",
-          "date": "18.02.2021, 00:07"
-        }
-      ]
-    },
-    {
-      "id": 28,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 28",
-      "count": 6,
-      "size": {
-        "width": 191,
-        "height": 113
-      },
-      "weight": "133g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 28,
-          "description": "Love it!",
-          "date": "26.09.2021, 12:42"
-        },
-        {
-          "id": 2,
-          "productId": 28,
-          "description": "Really cool",
-          "date": "06.02.2021, 01:22"
-        },
-        {
-          "id": 3,
-          "productId": 28,
-          "description": "Love it!",
-          "date": "10.11.2021, 15:55"
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 29",
-      "count": 5,
-      "size": {
-        "width": 236,
-        "height": 134
-      },
-      "weight": "474g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 29,
-          "description": "Really cool",
-          "date": "25.09.2021, 14:23"
-        },
-        {
-          "id": 2,
-          "productId": 29,
-          "description": "Nice gadget!",
-          "date": "25.08.2021, 09:07"
-        },
-        {
-          "id": 3,
-          "productId": 29,
-          "description": "Love it!",
-          "date": "17.08.2021, 23:55"
-        }
-      ]
-    },
-    {
-      "id": 30,
-      "imageUrl": "./src/assets/product.webp",
-      "name": "Product name 30",
-      "count": 6,
-      "size": {
-        "width": 238,
-        "height": 296
-      },
-      "weight": "315g",
-      "comments": [
-        {
-          "id": 1,
-          "productId": 30,
-          "description": "Love it!",
-          "date": "28.06.2021, 06:42"
         }
       ]
     }
